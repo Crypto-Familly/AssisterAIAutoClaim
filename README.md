@@ -1,5 +1,12 @@
 # 🧠 Assisterr AI: Daily Claim with Phantom Private Key
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CryptoFamilyHub)
+
+## 🚀 Features
+- ⚡ Automatic daily reward claiming
+- 🔐 Supports multiple Phantom wallets via `keys.txt`
+- 🌐 Optional proxy support via `proxy.txt`
+- 📦 Minimal setup — no bloated dependencies
+
 ## Run
 
 ```bash
