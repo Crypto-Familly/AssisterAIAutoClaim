@@ -1,0 +1,4 @@
+phantom_wallet_solana_privat_key_1
+phantom_wallet_solana_privat_key_2
+phantom_wallet_solana_privat_key_3
+phantom_wallet_solana_privat_key_4
