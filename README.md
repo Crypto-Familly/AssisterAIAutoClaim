@@ -10,8 +10,8 @@
 ## Run
 
 ```bash
-git clone https://github.com/Crypto-Familly/AssisterAIAutoClaim
-cd AssisterAIAutoClaim
+git clone https://github.com/Crypto-Familly/AssisterrAIAutoClaim
+cd AssisterrAIAutoClaim
 npm install
 ```
 
