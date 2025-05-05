@@ -3,8 +3,8 @@
 ## Run
 
 ```bash
-git clone https://link-to-project
-cd my-project
+git clone [https://link-to-project](https://github.com/Crypto-Familly/AssisterAIAutoClaim)
+cd AssisterAIAutoClaim
 npm install
 ```
 
